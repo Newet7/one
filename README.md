@@ -2,4 +2,4 @@ dslkajflkajsdkfjakgb
 git push
 WORK!
 NOWORK VScode!
-Так себе норм
+Как дела?
